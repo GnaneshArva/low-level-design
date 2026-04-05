@@ -123,3 +123,5 @@ Trade-offs must be obvious - Design must scale from simple to complex
 ======================== IMPORTANT RULES ======================== - DO
 NOT over-engineer - DO NOT add unnecessary patterns - DO NOT include
 unit tests unless asked - Output ONLY Java source code
+
+Note: ZIP all the files to a folder.
